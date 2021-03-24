@@ -16,4 +16,4 @@ while(i<=size-1):
         print("Match motif",str1)   
         file1=open("motoutput.txt","a")
         file1.write(str1+" ")
-i+=1
+    i+=1
